@@ -14,10 +14,10 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="index.php#about">About</a>
+                <a class="nav-link" href="index.html#about">About</a>
                 </li>
                 <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#option" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -29,7 +29,7 @@
                 </ul>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="index.php#contact">Contact</a>
+                <a class="nav-link" href="index.html#contact">Contact</a>
                 </li>
             </ul>
             </div>
